@@ -1,0 +1,65 @@
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:56:42.926 AM'
+}
+{
+  method: 'GET',
+  url: '/',
+  status: 404,
+  content_length: 139,
+  response_time: 1.048,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2024-02-14 11:56:56.562 AM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 05:32:36.952 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:09:42.719 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:10:45.050 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:19:16.232 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:29:07.413 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:30:31.329 PM'
+}
+{
+  message: 'MongoDB Connected: mongodb',
+  level: 'info',
+  timestamp: '2024-02-14 11:46:57.312 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:46:57.315 PM'
+}
+{
+  message: 'MongoDB Connected: mongodb',
+  level: 'info',
+  timestamp: '2024-02-14 11:47:22.592 PM'
+}
+{
+  message: 'Server running in development mode on port 1997',
+  level: 'info',
+  timestamp: '2024-02-14 11:47:22.595 PM'
+}

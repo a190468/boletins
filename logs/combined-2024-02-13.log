@@ -1,0 +1,15 @@
+{
+  message: 'Server running in development mode on port 3000',
+  level: 'info',
+  timestamp: '2024-02-13 09:50:23.471 PM'
+}
+{
+  method: 'GET',
+  url: '/',
+  status: 404,
+  content_length: 139,
+  response_time: 2.625,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2024-02-13 09:50:56.454 PM'
+}
